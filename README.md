@@ -1,3 +1,3 @@
 # TeaLoader
-![TeaLoader-Picture](https://tealoader.bymynix.xyz/assets/images/TeaLoader-Picture.png)
+![TeaLoader-Picture](https://bymynix.de/tealoader/assets/images/TeaLoader-Picture.png)
 
